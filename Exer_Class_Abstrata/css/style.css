@@ -1,0 +1,62 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e; /* Fundo escuro */
+    color: #f1f1f1; /* Texto claro */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #dcdcdc; /* Texto do título */
+}
+
+/* Estilo do formulário */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #2a2a2a; /* Fundo do formulário */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilo dos fieldsets */
+fieldset {
+    border: 1px solid #444; /* Borda mais escura */
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #3a3a3a; /* Fundo do fieldset */
+}
+
+legend {
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+/* Estilo dos inputs */
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #666; /* Borda mais clara */
+    border-radius: 4px;
+    background-color: #555; /* Fundo dos inputs */
+    color: #f1f1f1; /* Texto claro nos inputs */
+}
+
+/* Estilo dos botões */
+input[type="submit"] {
+    background-color: #007bff; /* Azul vibrante para botões */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3; /* Azul mais escuro ao passar o mouse */
+}
