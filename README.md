@@ -56,7 +56,7 @@ Para rodar este projeto localmente, você precisará de um ambiente de servidor 
 
 ## 🖼️ Demonstração
 
-![Demonstração da Tela de Cadastro]
+Demonstração da Tela de Cadastro
 <img width="1287" height="966" alt="printScreen" src="https://github.com/user-attachments/assets/6f67c45f-0f0d-40c3-b9be-16a397085d70" />
 
 
