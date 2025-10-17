@@ -39,7 +39,7 @@ Para rodar este projeto localmente, você precisará de um ambiente de servidor 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/SWI-Abstract.git](https://github.com/seu-usuario/SWI-Abstract.git)
+    git clone [https://github.com/ERTbcod/SWI-Abstract.git](https://github.com/ERTbcod/SWI-Abstract.git)
     ```
 
 2.  **Mova a pasta do projeto:**
